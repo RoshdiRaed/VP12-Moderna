@@ -11,7 +11,9 @@
 <img src="Image/Contact Us.png">
 
 Make sure to open the link like this:
-`http://127.0.0.1:8000/home`
+```bash
+http://127.0.0.1:8000/home
+```
 
 ----------------------------------------------------
 
