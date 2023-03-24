@@ -8,7 +8,7 @@
 
 ----------------------------------------------------
 
-<img src="Image/Contact Us.png">
+<img src="Image/ContactUs.png">
 
 Make sure to open the link like this:
 ```bash
