@@ -14,6 +14,7 @@ Make sure to open the link like this:
 ```bash
 http://127.0.0.1:8000/home
 ```
+To Run the Code:
 ```bash
 php artisan serve
 ```
